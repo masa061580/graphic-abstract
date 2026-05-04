@@ -15,3 +15,11 @@ Japanese graphical abstract for PubMed PMID 40113100.
 - DOI: https://doi.org/10.1002/deo2.70240
 
 ![CRC AI depth graphical abstract](crc_ai_depth_graphical_abstract_jp.png)
+
+## PMID 41468904
+
+- Article: Development and validation of a multimodal deep learning model for early esophageal squamous neoplasia detection and invasion depth prediction.
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/41468904/
+- DOI: https://doi.org/10.1055/a-2780-0974
+
+![MUMA-EDx ESCC graphical abstract](muma_edx_escc_graphical_abstract_jp.png)
